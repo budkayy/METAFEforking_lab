@@ -1,5 +1,4 @@
 Crimson
-star fruit
 Orange
 Blue
 Cyan
@@ -10,6 +9,17 @@ Coral
 Silver
 Fuchsia
 Purple
-pineapple
+Brown
+RedCrimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
 Brown
 Red
